@@ -62,5 +62,5 @@ body {
   border: 2px solid var(--border-color);
 }
 .btn:hover {
-  background-color: blue;
+  background-color: rgb(116, 13, 226);
 }
