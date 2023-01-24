@@ -3,7 +3,7 @@
   margin: 0;
   box-sizing: border-box;
   font-size: 62.5%;
-  --bg-color: #9452ff;
+  --bg-color: #9676c5;
   --border-color: #8234ff;
 }
 body {
@@ -63,4 +63,7 @@ body {
 }
 .btn:hover {
   background-color: rgb(116, 13, 226);
+}
+img:hover {
+  background-color: rgb(214, 227, 227);
 }
