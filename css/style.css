@@ -78,12 +78,11 @@ img:hover {
 @media only screen and (max-width: 668) {
   .container {
     width: 50%;
-    
   }
 }
 
-/* @media only screen and (min-width: 768px) {
-  For desktop:
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
   .col-1 {
     width: 8.33%;
   }
